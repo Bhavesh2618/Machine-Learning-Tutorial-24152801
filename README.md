@@ -142,18 +142,10 @@ pip install tensorflow scikit-learn matplotlib pandas
 
 ├── ML Tutorial Code.ipynb  
 ├── ML Report Tutorial.pdf
-├── README.md  
-
----
-
-## 📚 References
-
-- Goodfellow, I., Bengio, Y. and Courville, A. (2016) Deep Learning. MIT Press  
-- Pedregosa, F. et al. (2011) Journal of Machine Learning Research  
-- LeCun, Y., Bengio, Y. and Hinton, G. (2015) Nature  
-- Bishop, C.M. (2006) Pattern Recognition and Machine Learning  
-- Mitchell, T.M. (1997) Machine Learning  
-- He, K. et al. (2016) CVPR  
+├── README.md 
+├── LICENSE
+├── Requirements.txt
+├── Outputs
 
 ---
 
@@ -170,29 +162,3 @@ This project is created for academic purposes.
 You may reuse the code with proper attribution.
 
 ---
-
-# 🎯 What this gives you
-
-- ✔ Meets GitHub requirement  
-- ✔ Includes methodology + results + ethics + accessibility  
-- ✔ Clean academic + technical tone  
-- ✔ Fully aligned with your report  
-
----
-
-# 🚀 FINAL STATUS
-
-👉 You now have:
-- ✔ Report (PDF)  
-- ✔ Notebook  
-- ✔ README  
-- ✔ Results + plots  
-- ✔ Accessibility + ethics  
-- ✔ References  
-
-👉 This is complete submission package (80–85%)
-
----
-
-If you want last polish:
-👉 "give me github repo naming + description + tags"
